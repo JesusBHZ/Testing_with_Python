@@ -28,6 +28,7 @@ print(resultado)
 git branch -M main
 git remote add origin 
 git push -u origin main
+texto
 
 """
 
